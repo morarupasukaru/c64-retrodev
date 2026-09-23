@@ -1,2 +1,84 @@
-# c64-retrodev
-compilation of resources &amp; docs about a retro-development with commodore 64 (2025 - now)
+# Commodore 64 Retrodev
+
+* learning
+  * BASIC:
+    * [Commodore 64 BASIC Programming Course](https://retrogamecoders.com/commodore64-basic-programming/) of retrogamecoders
+      * [part 1](https://retrogamecoders.com/commodore64-basic-programming/), [1.5](https://retrogamecoders.com/cbm-prg-studio-mac-linux-with-wine/),
+        [2](https://retrogamecoders.com/commodore-64-basic-commands/), [3](https://retrogamecoders.com/commodore-basic-game-logic/),
+        [4](https://retrogamecoders.com/c64-poke-peek/), [5](https://retrogamecoders.com/c64-dos-commands/),
+        [6](https://retrogamecoders.com/c64-write-load-data/),
+        [7](https://retrogamecoders.com/c64-basic-dungeon-part7/),
+        [8](https://retrogamecoders.com/c64-basic-dungeon-part8/),
+        [7 (vscode)](https://retrogamecoders.com/c64-visual-studio-code/),
+        [8 (text adventure)](https://retrogamecoders.com/strings-text-adventure/),
+        [9](https://retrogamecoders.com/c64-adventure-programming/),
+        [10](https://retrogamecoders.com/c64-adventures-objects/)
+      * [reading C64 joysticks](https://retrogamecoders.com/c64-joysticks-analog-sensors/)
+      * [printing PETSCII faster](https://retrogamecoders.com/printing-petscii-faster/)
+      * [replacing parts of strings in C64 BASIC](https://retrogamecoders.com/mid-c64-strings/)
+      * [more C64 BASIC optimisations](https://retrogamecoders.com/more-c64-basic-optimisations/)
+      * [how C64 sprites work](https://retrogamecoders.com/how-c64-sprites-work/)
+      * [creating a classic 3D maze game for the C64 in XC-BASIC 3](https://retrogamecoders.com/3dmaze-xc-basic3/)
+      * [C64 BASIC: Game Map Overhead “Camera View”](https://retrogamecoders.com/overhead-camera-view/)
+    * [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
+  * assembly
+    * [Fun and Games Programming in Assembly](https://www.lemon64.com/page/fun-and-games-programming-in-assembly) 
+    * [C64 Assembly Coding Guide](https://github.com/spiroharvey/c64/blob/main/asm/C64%20Assembly%20Coding%20Guide.md)
+      * [Assembly in one step](https://dwheeler.com/6502/oneelkruns/asm1step.html) - the absolute bare minimum you need to know to program in assembly on the 6502. 
+      * [Commodore 64 Architecture](https://www.atarimagazines.com/compute/issue32/112_1_COMMODORE_64_ARCHITECTURE.php)
+    * [suggestion about development in assembly with c64](https://pastebin.com/hmpJmurr)
+      * read quickly [Commodore 64/128 Assembly language programming](https://commodore.bombjack.org/books/commodore/books/Commodore_64_128_Assembly_Language_Programming.zip)
+         and [Machine Language for Commodore 64 and other Commodore Computers](https://commodore.bombjack.org/books/commodore/books/Machine_Language_for_the_Commodore_Revised_and_Expanded_Edition.zip)
+      * follow [tutorials to dev games](https://www.georg-rottensteiner.de/en/index.html), [Start Here: The Fundamentals of Commodore 64 Programming in BASIC and 6502 Assembly Language],
+      * https://www.amazon.fr/-/en/dp/B0GYMDRVS5?binding=paperback&qid=1789708167&sr=8-5&ref=dbs_dp_rwt_sb_pc_tpbk
+      * (https://moondogbooks.github.io/main/) books
+    * [Assembly Language for Kids Commodore 64]()
+    * [C64 assembly programming on Windows](https://digitalerr0r.net/2011/03/19/commodore-64-programming-a-quick-start-guide-to-c-64-assembly-programming-on-windows/)
+    * [courses on oldskoolcoder](https://oldskoolcoder.co.uk/twitch-stream-lessons-copy/)
+    * ([64bites](https://www.64bites.com/) -> cost too much)
+  * others
+    * [VIC-II for Beginners](https://dustlayer.com/vic-ii/2013/4/22/when-visibility-matters)
+    * [FairLight TV #64, programming the C64 VIC chip](https://www.youtube.com/watch?v=NDymM14uQWM)
+    * [An Introduction to Programming C-64 Demos](https://www.antimon.org/code/Linus/demo_prog.html)
+* references
+  * [6502 opcodes](http://www.6502.org/tutorials/6502opcodes.html)
+  * [c64 standard kernal functions](https://sta.c64.org/cbm64krnfunc.html)
+  * [c64 memory map](https://sta.c64.org/cbm64mem.html) or [C64 Memory Map](https://www.pagetable.com/c64ref/c64mem/)
+  * [c64 colour codes](https://sta.c64.org/cbm64col.html)
+  * [C=Hacking](http://www.ffd2.com/fridge/chacking/)
+  * [The MOS 6567/6569 video controller (VIC-II) and its application in the Commodore 64](https://csdb.dk/release/?id=154952) for documented and undocumented features of the VIC-II
+  * [VIC Timing](https://www.linusakesson.net/programming/vic-timing/victiming.pdf)
+  * [The Dreams: AAY-Helpfiles](https://www.the-dreams.de/aay.html)
+  * [Commodore Programmers Reference Guide](https://pickledlightprojects.com/documents/c64-guides/) (PDF)
+  * [Mapping the Commodore 64](https://www.c64brain.com/wp-content/uploads/2022/01/Computes_Mapping_the_Commodore_64.pdf) (PDF)
+  * [6502.org](http://www.6502.org/) - a good resource for 6502 information
+  * [c64 wiki](https://www.c64-wiki.com/wiki/Main_Page) - general c64 wiki
+  * [Memory in Basic of C64](https://www.c64-wiki.com/wiki/Memory_(BASIC)#String_Variables)
+* tools for modern OS
+  * IDE: [C64Studio](https://endurion.itch.io/c64studio), [CBM prg Studio](https://www.ajordison.co.uk/)
+    or [C64 in Visual StudioCode](https://retrogamecoders.com/c64-visual-studio-code/)
+  * PETSCII: [PETSCII Editor](https://petscii.krissz.hu/), [Petmate - C64 PETSCII editor](https://nurpax.github.io/petmate/)
+  * image editor: [ALBERT](https://www.albertpixels.com/), [Ditheridoo](https://github.com/fieserWolF/ditheridoo)
+  * sprite editor: [SpritePad C64 Pro](https://subchristsoftware.itch.io/spritepad-c64-pro)
+  * online sprite editor: [spritemate](https://www.spritemate.com/)
+  * [pixeleditor](https://retrogamecoders.com/pixeleditor/) (see [article](https://retrogamecoders.com/retro-pixel-image-editor/))
+  * emulator: [VICE](https://vice-emu.sourceforge.io/)
+* tools for C64
+  * [Supermon](https://github.com/jblang/supermon64) as machine-language monitor
+  * [Sprite Studio 64](https://tstamborski.itch.io/sprite-studio-64)
+  * [Commodore 64 LOGO](https://gmontag451.wordpress.com/2008/02/02/hello-world/)
+  * [SID-Wizard](https://csdb.dk/release/?id=255544), [Soundmonitor](https://csdb.dk/release/?id=59929), and other [tools](https://hvmec.altervista.org/blog/) to compose music
+ tools
+* links
+  * [remaster c64 documentations](https://pickledlightprojects.com/documents/)
+  * [C64-Wiki](https://www.c64-wiki.com/wiki/Main_Page)
+  * [aBc INFORMATIQUE](https://abandonware-magazines.org/affiche_mag.php?mag=62&page=1)
+  * [REST API C64 ultimate](https://github.com/chrisgleissner/c64commander/blob/main/docs/c64/c64u-rest-api.md)
+  * [amiga mod file sources](https://maidavale.org/blog/amiga-mod-file-sources/)
+  * [archive of software, books, & mags](https://commodore.bombjack.org/commodore/index.htm)
+* demos
+  * [c64.ch](https://c64.ch/productions/demos)
+ 
+_(last update on 23.09.2026)_
+
+[*Go to parent page*](../../README.md)
