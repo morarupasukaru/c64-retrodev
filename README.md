@@ -1,4 +1,6 @@
-# Commodore 64 Retrodev
+# Commodore 64
+
+Compilation of resources & docs about a retro-development with commodore 64
 
 * learning
   * BASIC:
