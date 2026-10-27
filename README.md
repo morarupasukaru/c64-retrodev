@@ -4,7 +4,11 @@ Compilation of resources & docs about a retro-development with commodore 64
 
 * learning
   * BASIC:
-    * [Commodore 64 BASIC Programming Course](https://retrogamecoders.com/commodore64-basic-programming/) of retrogamecoders
+      * ["Hello World" on Commodore 64 in Assembly Language, Machine Code](https://www.youtube.com/watch?v=CHLzzfEmj3I&list=PLvW2ZMbxgP9z9Un4LXivII_D1Hh5gZ7r9)
+      * [Modern Assembly Language Programming on the C64: Part 1](https://www.youtube.com/watch?v=7sLTaVWV0c8), [Part 2](https://www.youtube.com/watch?v=yHr27WHu6I0)
+      * [Intro to Assembly programming on the Commodore 64](https://www.youtube.com/playlist?list=PLJv7Sh0ZDUnosAs61WrUydGvn3I51cwK-)
+      * [Commodore 64 Assembly Programming Course](https://www.youtube.com/playlist?list=PLU1o_YShTPgoA7_nZ0PutqaPDsitA5RvV)
+      * [Commodore 64 BASIC Programming Course](https://retrogamecoders.com/commodore64-basic-programming/) of retrogamecoders
       * [part 1](https://retrogamecoders.com/commodore64-basic-programming/), [1.5](https://retrogamecoders.com/cbm-prg-studio-mac-linux-with-wine/),
         [2](https://retrogamecoders.com/commodore-64-basic-commands/), [3](https://retrogamecoders.com/commodore-basic-game-logic/),
         [4](https://retrogamecoders.com/c64-poke-peek/), [5](https://retrogamecoders.com/c64-dos-commands/),
