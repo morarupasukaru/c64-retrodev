@@ -4,25 +4,13 @@ Compilation of resources & docs about a retro-development with commodore 64
 
 * learning
   * BASIC:
-      * [Commodore 64 BASIC Programming Course](https://retrogamecoders.com/commodore64-basic-programming/) of retrogamecoders
-      * [part 1](https://retrogamecoders.com/commodore64-basic-programming/), [1.5](https://retrogamecoders.com/cbm-prg-studio-mac-linux-with-wine/),
-        [2](https://retrogamecoders.com/commodore-64-basic-commands/), [3](https://retrogamecoders.com/commodore-basic-game-logic/),
-        [4](https://retrogamecoders.com/c64-poke-peek/), [5](https://retrogamecoders.com/c64-dos-commands/),
-        [6](https://retrogamecoders.com/c64-write-load-data/),
-        [7](https://retrogamecoders.com/c64-basic-dungeon-part7/),
-        [8](https://retrogamecoders.com/c64-basic-dungeon-part8/),
-        [7 (vscode)](https://retrogamecoders.com/c64-visual-studio-code/),
-        [8 (text adventure)](https://retrogamecoders.com/strings-text-adventure/),
-        [9](https://retrogamecoders.com/c64-adventure-programming/),
-        [10](https://retrogamecoders.com/c64-adventures-objects/)
+      * [BASIC courses on retrogamecoders.com](https://retrogamecoders.com)
+      * [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
+  * hardware
       * [reading C64 joysticks](https://retrogamecoders.com/c64-joysticks-analog-sensors/)
-      * [printing PETSCII faster](https://retrogamecoders.com/printing-petscii-faster/)
-      * [replacing parts of strings in C64 BASIC](https://retrogamecoders.com/mid-c64-strings/)
-      * [more C64 BASIC optimisations](https://retrogamecoders.com/more-c64-basic-optimisations/)
       * [how C64 sprites work](https://retrogamecoders.com/how-c64-sprites-work/)
-      * [creating a classic 3D maze game for the C64 in XC-BASIC 3](https://retrogamecoders.com/3dmaze-xc-basic3/)
-      * [C64 BASIC: Game Map Overhead “Camera View”](https://retrogamecoders.com/overhead-camera-view/)
-    * [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
+  * ide
+      * [Programming the C64 with Visual Studio Code](https://retrogamecoders.com/c64-visual-studio-code/),
   * assembly
     * ["Hello World" on Commodore 64 in Assembly Language, Machine Code](https://www.youtube.com/watch?v=CHLzzfEmj3I&list=PLvW2ZMbxgP9z9Un4LXivII_D1Hh5gZ7r9)
     * [Modern Assembly Language Programming on the C64: Part 1](https://www.youtube.com/watch?v=7sLTaVWV0c8), [Part 2](https://www.youtube.com/watch?v=yHr27WHu6I0)
