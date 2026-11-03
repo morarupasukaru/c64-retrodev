@@ -12,15 +12,11 @@ Compilation of resources & docs about a retro-development with commodore 64
   * [Intro to Assembly programming on the Commodore 64](https://www.youtube.com/playlist?list=PLJv7Sh0ZDUnosAs61WrUydGvn3I51cwK-)
   * [Commodore 64 Assembly Programming Course](https://www.youtube.com/playlist?list=PLU1o_YShTPgoA7_nZ0PutqaPDsitA5RvV)
   * [Fun and Games Programming in Assembly](https://www.lemon64.com/page/fun-and-games-programming-in-assembly) 
-  * [C64 Assembly Coding Guide](https://github.com/spiroharvey/c64/blob/main/asm/C64%20Assembly%20Coding%20Guide.md)
-    * [Assembly in one step](https://dwheeler.com/6502/oneelkruns/asm1step.html) - the absolute bare minimum you need to know to program in assembly on the 6502. 
-    * [Commodore 64 Architecture](https://www.atarimagazines.com/compute/issue32/112_1_COMMODORE_64_ARCHITECTURE.php)
-  * [suggestion about development in assembly with c64](https://pastebin.com/hmpJmurr)
-    * read quickly [Commodore 64/128 Assembly language programming](https://commodore.bombjack.org/books/commodore/books/Commodore_64_128_Assembly_Language_Programming.zip)
-         and [Machine Language for Commodore 64 and other Commodore Computers](https://commodore.bombjack.org/books/commodore/books/Machine_Language_for_the_Commodore_Revised_and_Expanded_Edition.zip)
-    * follow [tutorials to dev games](https://www.georg-rottensteiner.de/en/index.html), [Start Here: The Fundamentals of Commodore 64 Programming in BASIC and 6502 Assembly Language](),
+  * book [Commodore 64/128 Assembly language programming](https://commodore.bombjack.org/books/commodore/books/Commodore_64_128_Assembly_Language_Programming.zip)
+  * book [Machine Language for Commodore 64 and other Commodore Computers](https://commodore.bombjack.org/books/commodore/books/Machine_Language_for_the_Commodore_Revised_and_Expanded_Edition.zip)
+  * tutorials [projectj - a C64 Game in several steps](https://www.georg-rottensteiner.de/c64/projectj/tutorialj.html),
   * [C64 assembly programming on Windows](https://digitalerr0r.net/2011/03/19/commodore-64-programming-a-quick-start-guide-to-c-64-assembly-programming-on-windows/)
-  * others
+* others
   * [VIC-II for Beginners](https://dustlayer.com/vic-ii/2013/4/22/when-visibility-matters)
   * [FairLight TV #64, programming the C64 VIC chip](https://www.youtube.com/watch?v=NDymM14uQWM)
   * [An Introduction to Programming C-64 Demos](https://www.antimon.org/code/Linus/demo_prog.html)
