@@ -5,7 +5,6 @@ Compilation of resources & docs about a retro-development with commodore 64
 * learning
   * BASIC: [courses on retrogamecoders.com](https://retrogamecoders.com), [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
   * hardware: [reading C64 joysticks](https://retrogamecoders.com/c64-joysticks-analog-sensors/), [how C64 sprites work](https://retrogamecoders.com/how-c64-sprites-work/)
-  * ide: [Programming the C64 with Visual Studio Code](https://retrogamecoders.com/c64-visual-studio-code/),
   * assembly
     * ["Hello World" on Commodore 64 in Assembly Language, Machine Code](https://www.youtube.com/watch?v=CHLzzfEmj3I&list=PLvW2ZMbxgP9z9Un4LXivII_D1Hh5gZ7r9)
     * [Modern Assembly Language Programming on the C64: Part 1](https://www.youtube.com/watch?v=7sLTaVWV0c8), [Part 2](https://www.youtube.com/watch?v=yHr27WHu6I0)
