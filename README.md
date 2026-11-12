@@ -14,6 +14,7 @@ Compilation of resources & docs about a retro-development with commodore 64
   * [Fun and Games Programming in Assembly](https://www.lemon64.com/page/fun-and-games-programming-in-assembly) 
   * book [Commodore 64/128 Assembly language programming](https://commodore.bombjack.org/books/commodore/books/Commodore_64_128_Assembly_Language_Programming.zip)
   * book [Machine Language for Commodore 64 and other Commodore Computers](https://commodore.bombjack.org/books/commodore/books/Machine_Language_for_the_Commodore_Revised_and_Expanded_Edition.zip)
+  * [RETRO GAME DEV](https://retrogamedev.com/) and [github](https://github.com/retrogamedev)
   * tutorials [projectj - a C64 Game in several steps](https://www.georg-rottensteiner.de/c64/projectj/tutorialj.html),
   * [C64 assembly programming on Windows](https://digitalerr0r.net/2011/03/19/commodore-64-programming-a-quick-start-guide-to-c-64-assembly-programming-on-windows/)
 * others
